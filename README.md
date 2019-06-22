@@ -13,7 +13,7 @@
 1. docker pull rabbitmq:3-management
 2. docker run -d -p 5672:5672 -p 15672:15672 --name myrabbitmq imageId
 3. http://192.168.74.129:15672/
-4. ![rabbitmq演示示例.png](rabbitmq演示示例.png)
+4.  rabbitmq演示示例![rabbitmq演示示例.png](images/rabbitmq演示示例.png)
 
 三、Spring Boot与检索
 
@@ -55,7 +55,17 @@
 
 四、Spring Boot与任务
 
+1. cron 表达式
+
+   ![cron 字段说明.png](E:\workspace\springboot-learning\images\cron 字段说明.png)
+
+   ![字符说明](images\cron 字符说明.png)
+
+2. 
+
 五、Spring Boot与安全
+
+
 
 六、Spring Boot与分布式
 
