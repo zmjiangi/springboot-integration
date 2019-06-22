@@ -57,9 +57,9 @@
 
 1. cron 表达式
 
-   ![cron 字段说明.png](E:\workspace\springboot-learning\images\cron 字段说明.png)
+   ![cron 字段说明.png](images/cron 字段说明.png)
 
-   ![字符说明](images\cron 字符说明.png)
+   ![字符说明](images/cron 字符说明.png)
 
 2. 
 
