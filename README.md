@@ -57,15 +57,17 @@
 
 1. cron 表达式
 
-   ![cron 字段说明.png](images/cron 字段说明.png)
+   ![cron字段说明.png](images/cron字段说明.png)
 
-   ![字符说明](images/cron 字符说明.png)
+   ![cron字符说明.png](images/cron字符说明.png)
 
-2. 
+   
 
 五、Spring Boot与安全
 
-
+1. thymeleaf 2.0->3.0 升级 https://www.cnblogs.com/aibabel/p/6963534.html
+2.  springsecurity 配置参考: https://docs.spring.io/spring-security/site/docs/current/guides/html5/helloworld-boot.html
+3.  thymeleaf 模板引擎对 springsecurity 支持:  https://docs.spring.io/spring-security/site/docs/current/guides/html5/helloworld-boot.html
 
 六、Spring Boot与分布式
 
