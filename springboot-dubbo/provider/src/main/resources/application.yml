@@ -1,0 +1,9 @@
+dubbo:
+  application:
+    name: provider
+  registry:
+    address: zookeeper://192.168.74.130:2181
+  scan:
+    base-packages: com.gzyijian.provider.service.impl.dubbo
+server:
+  port: 8081

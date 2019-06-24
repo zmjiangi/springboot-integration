@@ -71,6 +71,10 @@
 
 六、Spring Boot与分布式
 
+1. docker pull zookeeper
+2. docker run --name myzookeeper -p 2181:2181 --restart always -d ImageId
+3. 升级springboot 到 2.0 服务注册不上去？
+
 七、Spring Boot与监控管理
 
 八、Spring Boot与部署
