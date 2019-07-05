@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * @author zmjiangi
- * @date 2019-6-
+ * @date 2019-6-25
  */
 public class Book implements Serializable {
     private static final long serialVersionUID = 1L;

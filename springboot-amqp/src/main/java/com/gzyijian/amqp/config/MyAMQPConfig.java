@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @author zmjiangi
- * @date 2019-6-
+ * @date 2019-6-25
  */
 @Configuration
 public class MyAMQPConfig {
